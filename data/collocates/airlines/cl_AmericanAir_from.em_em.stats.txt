@@ -1,0 +1,8 @@
+SCORE	CO_FREQ	NODE_FREQ	COLL_FREQ	NODE	COLL	EM_N	EM_C
+6.998955070516843	8.0	38.0	38.0	:registered:	:registered:	®️	®️
+4.99999493415822	6.0	3.0	3.0	:hundred_points:	:hundred_points:	💯	💯
+4.99999493415822	6.0	3.0	3.0	:fire:	:fire:	🔥	🔥
+4.99999493415822	6.0	3.0	3.0	:shamrock:	:shamrock:	☘️	☘️
+4.999834517534414	6.0	21.0	14.0	:airplane:	:camera_with_flash:	✈️	📸
+4.999834517534414	6.0	14.0	21.0	:camera_with_flash:	:airplane:	📸	✈️
+4.999751778328958	6.0	21.0	21.0	:airplane:	:airplane:	✈️	✈️
