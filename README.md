@@ -1,4 +1,4 @@
-# UCTC
+# UCTC Emojis
 A repository containing supporting files for [ADD PAPER REFERENCE ONCE PUBLISHED]
 
 # Folders
