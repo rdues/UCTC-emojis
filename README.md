@@ -1,5 +1,6 @@
 # UCTC Emojis
-A repository containing supporting files for [ADD PAPER REFERENCE ONCE PUBLISHED]
+A repository containing supporting files for Lutzky, U., Kehoe, A. & Gee, M. (forthcoming) Exploring emojis through corpus linguistic approaches: A cross-industry comparison of webcare communication. _International Journal of Corpus Linguistics_.
+
 
 # Folders
 
